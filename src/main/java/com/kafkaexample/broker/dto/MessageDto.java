@@ -3,5 +3,5 @@ package com.kafkaexample.broker.dto;
 import org.apache.kafka.common.protocol.types.Field;
 
 public class MessageDto {
-    public String producedString;
+    public long price;
 }
